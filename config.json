@@ -2,7 +2,7 @@
     "token": "",
     "clientid": "783983682036957234",
     "clientsecret": "3-toR_2x0lUryE92wOQPTFAIF5Gi3v24",
-    "callbackURL": "https://discord-embed-builder-website-1.arthubdev.repl.co/login",
+    "callbackURL": "jay-embedbuilder.vercel.app/login",
     "discordserver": "https://discord.gg/",
     "port": "3001"
 }
